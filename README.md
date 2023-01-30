@@ -1,4 +1,4 @@
-# readnow
+# Internship Project
 
 A new Flutter project.
 
